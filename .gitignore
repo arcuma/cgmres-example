@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+test.ipynb
+tempCodeRunnerFile.py
+*.db
+*.egg-info
+*.log
+*.pdf
